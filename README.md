@@ -205,12 +205,4 @@ Final Year Engineering Project
 Built using Java, JSP, Servlets & MySQL
 
 
----
 
-If you want, next I can:
-- ✅ Guide you to **push this to GitHub**
-- 🧠 Write **viva explanations**
-- 📸 Add **screenshots section**
-- 📄 Convert this into **project report chapters**
-
-Just say the word 👌
